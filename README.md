@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Dima
+## I'm Front-end developer. I specialize in creating SPA, using React/Redax, TypeScript
 
 <!--
 **Dima12411/Dima12411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

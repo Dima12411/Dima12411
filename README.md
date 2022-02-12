@@ -19,6 +19,16 @@
 <img src="https://img.shields.io/badge/react router-20232A?style=for-the-badge&logo=react router&logoColor=CA4245" alt="react router"  style="max-width:100%;"> 
 </span>
 
-
 </hr>
 
+
+## Contacts
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/dzmitry-chizhonak-711489215/">
+       <img src="https://img.shields.io/badge/linkedin-20232A?&style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+   </a>
+   <a href="https://t.me/Lunoxod123">
+       <img src="https://img.shields.io/badge/Telegram-20232A?style=for-the-badge&logo=telegram&logoColor=26A5E4"/>
+   </a>
+</p>

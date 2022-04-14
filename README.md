@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Dima
-## I'm Front-end developer. I specialize in creating SPA, using React/Redax, JS/TypeScript
+## I'm Front-end developer. 
+## I specialize in creating SPA, using React/Redax, JS/TypeScript
 <hr>
 
 

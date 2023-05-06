@@ -26,7 +26,7 @@
 ## Contacts
 
 <p align="center">
-   <a href="https://www.linkedin.com/in/dzmitry-chizhonak-711489215/">
+   <a href="https://www.linkedin.com/in/dmitry-chyzhonak-711489215/">
        <img src="https://img.shields.io/badge/linkedin-20232A?&style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
    </a>
    <a href="https://t.me/Lunoxod123">
